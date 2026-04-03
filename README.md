@@ -1,4 +1,4 @@
-# 💰 Compound Interest Calculator
+# 💰 Interest Calculator
 
 A simple JavaScript-based web app to calculate the future value of an investment using compound interest.
 
